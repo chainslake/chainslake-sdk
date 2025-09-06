@@ -1,6 +1,6 @@
 # Chainslake SDK
 
-This is SDK for [Chainslake.io](https://chainslake.io) helps you quickly integrate status charts into your website.
+This is SDK for [Chainslake.com](https://chainslake.com) helps you quickly integrate status charts into your website.
 
 ## Install
 
