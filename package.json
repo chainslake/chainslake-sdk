@@ -1,7 +1,7 @@
 {
   "name": "chainslake",
   "version": "0.0.3",
-  "description": "SDK for Chainslake.io",
+  "description": "SDK for Chainslake.com",
   "author": "Lake Nguyen <lakechain.nguyen@gmail.com>",
   "license": "MIT",
   "type": "module",
