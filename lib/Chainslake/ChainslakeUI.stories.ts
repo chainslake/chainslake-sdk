@@ -11,11 +11,11 @@ const meta = {
   tags: ['autodocs'],
   argTypes: {
     url: {
-      options: ['https://chainslake.io'],
+      options: ['https://chainslake.com'],
       control: { type: 'select' },
     },
     id: {
-      options: ['114599989649904453', '114599986848643341', '114599905732506136'],
+      options: ['115149203800234454', '115149189599283534', '115143480312652880'],
       control: { type: 'select' },
     },
   },
@@ -28,7 +28,7 @@ type Story = StoryObj<typeof meta>;
 
 export const DefaultChainslakeUI: Story = {
   args: {
-    url: "https://chainslake.io",
-    id: "114599905732506136"
+    url: "https://chainslake.com",
+    id: "115143481456543129"
   },
 };
